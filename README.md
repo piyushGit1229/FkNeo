@@ -32,6 +32,7 @@
 - **Allow tab/window**
 - **Allow copy/paste**
 - **Spoof screen recording**
+- **Fullscreen bypass**
 - **Easy 2 use**
 
 The 2nd and the last 2nd feature is what makes this extention stand out from others. While other extention allows you to cheat, this also allowes you to hide your activity while cheating
@@ -56,7 +57,7 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 > [!IMPORTANT]
-> The password for the extention is : `ErrorxCode`
+> For password, contact [@ErrorxCode](t.me/ErrorxCode) on telegram or [@infrared.x](instagram.com/infrared.x) on instagram
 
 >[!NOTE]
 >If you need any kind of help or facing any kind of issue, Look into the existing issues or create a new one if you couldn't identify the solution. For personal assitance, connect with the developer on instargam.
@@ -64,4 +65,4 @@ https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 
 ## Support
-This project comprise of lot's of energy, brainstroming, coding, testing and time. If this project has helped you in any way, please consider giving it a ⭐ to show your support and help it grow!
+This project comprise of lot's of energy, brainstroming, coding, testing and time. If this project has helped you in any way, please consider giving it a ⭐ to show your support and help it grow! Also *watch* the repo to notfy about updates.
