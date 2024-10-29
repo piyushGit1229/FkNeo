@@ -36,6 +36,8 @@
 
 The 2nd and the last 2nd feature is what makes this extention stand out from others. While other extention allows you to cheat, this also allowes you to hide your activity while cheating
 
+<a href="https://github.com/ErrorxCode/FkNeo/releases/download/1.0.0/FkNeo.v1.0.0.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
+
 [![Github All Releases](https://img.shields.io/github/downloads/ErrorxCode/FkNeo/total.svg)]()
 
 ## ℹ️ How to install and use?
