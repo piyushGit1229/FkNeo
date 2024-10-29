@@ -46,10 +46,14 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 3. Click on the *Load unpack* button and select the extracted extention folder. (Make sure to remove the orignal extention if previously intalled)
 4. The extention is now installed. Now you can cheat in your tests.
 
+
 > [!TIP]
 > Open 2 chrome windows, one for giving the test and another for cheating.
 > On the 'Choose what to share' Dialog, select the exam window.
 > Now use Alt+Tab to switch into winodow, next you are intelligent enough :)
+
+### Tutorial
+https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 > [!IMPORTANT]
 > The password for the extention is : `ErrorxCode`
