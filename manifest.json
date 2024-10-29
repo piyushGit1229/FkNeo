@@ -1,0 +1,47 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "images/icon128.png",
+         "16": "images/icon16.png",
+         "48": "images/icon48.png"
+      },
+      "default_popup": ""
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [
+      {
+         "js": ["contentScript.js","bypass/detector.js"],
+         "matches": ["*://*.examly.io/*"]
+      },
+      {
+         "js": ["bypass/bypass.js"],
+         "run_at": "document_start",
+         "all_frames" : true,
+         "matchOriginAsFallback" : true,
+         "world" : "MAIN",
+         "matches": ["https://*.examly.io/*"]
+      }
+   ],
+   "description": "Bypass all the NeoCollab restrictions to cheat in the test. Now copy/paste, switch tab/window etc.\n\n Developed by ErrorxCode",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXKMSllCpa1zHLw0m7CbO1iAsi0iwQ5Ij45LbZsuvVnmmL0ahjrv+Rfbks1gZ2rE3nqJCvbyT9VUNMGlW9a09BTlRzrm9RhqaAdN6Mg4Y1fEdwQ6fB/UZG5eGEHKUmilxZrkfgfqVwPauLyIYBxTTyIJcYBQvg4mY1WutMpliP2Xbyva2f+t8iiXDer1lvqprNSbFv15bkwz6G5TJxTmvfK/yWKZUqPuI14WPyeo4KO5OA6+5aXONWw6S62n0D8LbadlkQMJM/Tn24tKAjSST0WpIViOn/rNOd/p1lTlrtXD9NkF3jDLblo+H0UwuItl+qhZd2why9tuejHGKWnS/wIDAQAB",
+   "manifest_version": 3,
+   "name": "F**k Neo",
+   "host_permissions": ["http://*/*", "https://*/*"],
+   "permissions": [
+      "management",
+      "tabs",
+      "webNavigation",
+      "activeTab",
+      "scripting"
+   ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0",
+   "version_name": "Cracked version"
+}
