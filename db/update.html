@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Themed Page</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+        }
+        .box {
+            background-color: #1f1f1f;
+            border-radius: 8px;
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .box h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .box p {
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        .box button {
+            background-color: #6200ea;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .box button:hover {
+            background-color: #3700b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>Title</h1>
+        <p>Here’s your message.</p>
+        <button onclick="window.location.href='https://example.com'">Open</button>
+    </div>
+</body>
+</html>
