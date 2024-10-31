@@ -3,54 +3,64 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dark Themed Page</title>
+    <title>Update Notification</title>
     <style>
         body {
-            margin: 0;
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #121212;
-            color: #ffffff;
-            font-family: Arial, sans-serif;
+            margin: 0;
         }
-        .box {
-            background-color: #1f1f1f;
-            border-radius: 8px;
+
+        .notification-box {
+            background-color: #1e1e1e;
+            border-radius: 10px;
             padding: 20px;
-            width: 355px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+            width: 350px;
             text-align: center;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
-        .box h1 {
-            font-size: 30px;
-            margin-bottom: 30px;
-      		font-family : 'cursive'
-        }
-        .box p {
-            font-size: 16px;
+
+        .notification-title {
+            font-size: 24px;
             margin-bottom: 20px;
         }
-        .box button {
+
+        .notification-message {
+            font-size: 16px;
+            color: #b0b0b0;
+            margin-bottom: 30px;
+        }
+
+        .update-button {
             background-color: #6200ea;
-            color: white;
+            color: #ffffff;
             border: none;
-            border-radius: 4px;
-            padding: 10px 20px;
+            border-radius: 5px;
+            padding: 10px 15px;
             cursor: pointer;
             font-size: 16px;
+            transition: background-color 0.3s;
         }
-        .box button:hover {
+
+        .update-button:hover {
             background-color: #3700b3;
         }
     </style>
 </head>
 <body>
-    <div class="box">
-        <h1>Update available!</h1>
-        <p>This version of the extention is expired and is no longer working. Please update the extention from the github repo to continue using the extention.<br><br><i>You will need to uninstall this version before installing the new one.</i></p>
-        <button onclick="window.location.href='https://github.com/ErrorxCode/FkNeo/releases/latest'">Download</button>
+
+    <div class="notification-box">
+        <div class="notification-title">Update Available!</div>
+        <div class="notification-message">This version of the extention is expired and is no longer working. Please update the extention from the github repo to continue using the extention.
+<br><br><i>You will need to uninstall this version before installing the new one.<i/>
+</div>
+        <button class="update-button" onclick="window.location.href='https://github.com/ErrorxCode/FkNeo/releases/latest'">Download Now</button>
     </div>
+
 </body>
 </html>
