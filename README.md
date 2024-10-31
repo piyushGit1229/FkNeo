@@ -27,7 +27,7 @@
 
 ## ✨ Main Features
 
-- **NeoExamShield Bypass** (Emulate as official NeoExamShield extention, no need to install it.
+- **NeoExamShield Bypass** (Emulate as official NeoExamShield extention, no need to install it)
 - **Removed entire screen capturing** (Now you can start the test even with window or tab screen recording permission)
 - **Allow tab/window**
 - **Allow copy/paste**
@@ -37,7 +37,7 @@
 
 The 2nd and the last 2nd feature is what makes this extention stand out from others. While other extention allows you to cheat, this also allowes you to hide your activity while cheating
 
-<a href="https://github.com/ErrorxCode/FkNeo/releases/download/1.0.0/FkNeo.v1.0.0.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
+<a href="https://github.com/ErrorxCode/FkNeo/releases/download/1.2.0/FkNeo.v1.2.0.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
 [![Github All Releases](https://img.shields.io/github/downloads/ErrorxCode/FkNeo/total.svg)]()
 
@@ -57,7 +57,7 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 > [!IMPORTANT]
-> For password, contact [@ErrorxCode](t.me/ErrorxCode) on telegram or [@infrared.x](instagram.com/infrared.x) on instagram
+> For access key, contact [@ErrorxCode](t.me/ErrorxCode) on telegram or [@x0.rahil](instagram.com/x0.rahil) on instagram
 
 >[!NOTE]
 >If you need any kind of help or facing any kind of issue, Look into the existing issues or create a new one if you couldn't identify the solution. For personal assitance, connect with the developer on instargam.
