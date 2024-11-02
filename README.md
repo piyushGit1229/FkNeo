@@ -9,7 +9,7 @@
 
 <h2 align="center">F**K Neo</h2>
 <br/>
-<p align="center"><strong>Bypass</strong> all the <strong>NeoCollab/Examly restrictions</strong> to cheat in the test. Now copy/paste, switch tab/window etc. This is basically a <strong>cracked version</strong> of official NeoExamShield. For the new `iamneo` portal</p>
+<p align="center"><strong>Bypass</strong> all the <strong>NeoCollab/Examly restrictions</strong> to cheat in the test. Now copy/paste, switch tab/window etc. Specially designed for the new `iamneo` portal</p>
 <br/>    
 
 
@@ -22,12 +22,12 @@
 
 > [!NOTE]
 > #### Dear Examly/NeoCollab
-> If you want me to remove the project, or fix the security flaws in you website, Please contact me on fkneo@itsrahil.me.
+> If you want me to remove the project, let's talk about fixing the security flaws in you website, Please contact me on project-neo@itsrahil.me.
 
 
 ## ✨ Main Features
 
-- **NeoExamShield Bypass** (Emulate as official NeoExamShield extention, no need to install it)
+- **NeoExamShield emulation** (Emulate as official NeoExamShield extention, no need to install it)
 - **Removed entire screen capturing** (Now you can start the test even with window or tab screen recording permission)
 - **Allow tab/window**
 - **Allow copy/paste**
@@ -57,7 +57,7 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 > [!IMPORTANT]
-> For access key, contact [@ErrorxCode](t.me/ErrorxCode) on telegram or [@x0.rahil](instagram.com/x0.rahil) on instagram.
+> For access key, contact [@ErrorxCode](https://t.me/ErrorxCode) on telegram or [@x0.rahil](https://instagram.com/x0.rahil) on instagram.
 > If you got to know about this from someone on whatsapp, you can ask him/her too.
 
 >[!NOTE]
