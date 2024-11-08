@@ -57,7 +57,7 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 > [!IMPORTANT]
-> For access key, contact [@ErrorxCode](https://t.me/ErrorxCode) on telegram or [@x0.rahil](https://instagram.com/x0.rahil) on instagram.
+> For any kind of help, contact [@ErrorxCode](https://t.me/ErrorxCode) on telegram or [@x0.rahil](https://instagram.com/x0.rahil) on instagram.
 > If you got to know about this from someone on whatsapp, you can ask him/her too.
 
 >[!NOTE]
