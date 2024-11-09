@@ -35,7 +35,7 @@
 - **Fullscreen bypass**
 - **Easy 2 use**
 
-The 2nd and the last 2nd feature is what makes this extention stand out from others. While other extention allows you to switch tab/window, this also allowes you to hide your activity while doinh so
+The 2nd and the last 2nd feature is what makes this extention stand out from others. While other extention allows you to switch tab/window, this also allowes you to hide your activity while doing so
 
 <a href="https://github.com/ErrorxCode/FkNeo/releases/download/1.2.2/FkNeo-v1.2.2.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
@@ -63,3 +63,8 @@ https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 ## Support
 This project comprise of lot's of energy, brainstroming, coding, testing and time. If this project has helped you in any way, please consider giving it a ⭐ to show your support and help it grow! Also *watch* the repo to notfy about updates.
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+![water](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
