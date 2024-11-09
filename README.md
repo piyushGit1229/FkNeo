@@ -1,5 +1,5 @@
 <p align="center"><a href="https://darkreader.org" target="_blank" rel="noreferrer noopener"><img width="250" alt="F**k Neocollab extention" src="/logo.png"></a></p>
-<p align="center">F**K Neo <strong>bypasses</strong> restrictions imposed by <strong>NeoCollab/ExamShield</strong> and allow to do everythin easily</p>
+<p align="center">F**K Neo <strong>bypasses</strong> restrictions imposed by <strong>NeoCollab/ExamShield</strong> and allow to do anything in the test easily</p>
 <br/>
 <p align="center"><a rel="noreferrer noopener" href="https://chromewebstore.google.com/detail/neoexamshield/deojfdehldjjfmcjcfaojgaibalafifc"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 <a rel="noreferrer noopener" href="https://addons.mozilla.org/firefox/addon/darkreader/"><img alt="Opera Add-ons" src="https://img.shields.io/badge/Opera-141e24.svg?&style=for-the-badge&logo=opera&logoColor=white"></a>
@@ -39,7 +39,7 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 
 <a href="https://github.com/ErrorxCode/FkNeo/releases/download/1.2.1/FkNeo-v1.2.1.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
-[![Github All Releases](https://img.shields.io/github/downloads/ErrorxCode/FkNeo/total.svg)]()
+[![Github All Releases](https://custom-icon-badges.demolab.com/github/downloads/ErrorxCode/FkNeo/total?label=Downloads&logo=download&logoSource=feather)]()
 
 ## ℹ️ How to install and use?
 1. Firstly download and extract the extention zip from latest release (or the above button)
