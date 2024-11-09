@@ -21,7 +21,8 @@
          "all_frames" : true,
          "matchOriginAsFallback" : true,
          "world" : "MAIN",
-         "matches": ["https://*.examly.io/*"]
+         "matches": ["https://*.examly.io/*"],
+         "exclude_matches": ["https://*.examly.io/result*"]
       }
    ],
    "description": "Bypass all the NeoCollab restrictions to cheat in the test. Now copy/paste, switch tab/window etc.\n\n Developed by ErrorxCode",
@@ -37,11 +38,11 @@
    "permissions": [
       "management",
       "tabs",
-      "webNavigation",
       "activeTab",
+      "storage",
       "scripting"
    ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.0",
-   "version_name": "Cracked version"
+   "version": "1.2.2",
+   "version_name": "Cracked version - v1.2.2"
 }
